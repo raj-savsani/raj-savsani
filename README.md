@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=raj-savsani.raj-savsani)
 
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning Backend and practicing Data Structure and Algorithm;
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning React and practicing Data Structure and Algorithm;
 
 - I’ve recently finished working on [Pluralsight Website Clone](https://aadityaneve.github.io/Clone-Pluralsight) Project
 

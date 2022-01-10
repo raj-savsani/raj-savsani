@@ -3,7 +3,7 @@
 <p>From designing components in Solidworks to building components in React, the journey has been great.
 I was fascinated with the fact that how brand new products are being created with all the opensource technology available, and how it is transforming billions of lives within a very short time period. I wanted to be a part of this, hence I joined a coding bootcamp for the Full Stack Web Development course, and here I'm today.</p>
 
-<h3>Intrest</h3>
+<h3>Interest</h3>
 <p>I would love to spare my free time in exploring nature, going mountaineering and hiking, watching Pro Kabaddi league</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=raj-savsani.raj-savsani)
@@ -59,7 +59,11 @@ I was fascinated with the fact that how brand new products are being created wit
 </a>
 </p>
 
-
+<p>
+<a href="https://github.com/ProgrammerBhanu/TataCliq-Project">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerBhanu&repo=TataCliq-Project&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="Raj"/>
+</a>
+</p>
 
 
 <!---

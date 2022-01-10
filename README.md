@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Raj Savsani <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
 <h3><i>A passionate full-stack web developer</i></h3> 
-<h2>From designing components in Solidworks to building components in React, the journey has been great.
-I was fascinated with the fact that how brand new products are being created with all the opensource technology available, and how it is transforming billions of lives within a very short time period. I wanted to be a part of this, hence I joined a coding bootcamp for the Full Stack Web Development course, and here I'm today.</h2>
+<h4>From designing components in Solidworks to building components in React, the journey has been great.
+I was fascinated with the fact that how brand new products are being created with all the opensource technology available, and how it is transforming billions of lives within a very short time period. I wanted to be a part of this, hence I joined a coding bootcamp for the Full Stack Web Development course, and here I'm today.</h4>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=raj-savsani.raj-savsani)
 

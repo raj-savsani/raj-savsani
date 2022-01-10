@@ -53,18 +53,19 @@ I was fascinated with the fact that how brand new products are being created wit
 
 <h3><i>Top Repositories <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /> </i></h3>
 
-<p float="left">
+<p>
+ 
 <a href="https://github.com/aadityaneve/Clone-Pluralsight">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityaneve&repo=Clone-Pluralsight&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="Raj"/>
 </a>
-</p>
 
-<p float="right">
+
+
 <a href="https://github.com/ProgrammerBhanu/TataCliq-Project">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerBhanu&repo=TataCliq-Project&locale=en&border_radius=0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="Raj"/>
 </a>
 </p>
-<div>
+
 
 <!---
 raj-savsani/raj-savsani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
